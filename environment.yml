@@ -1,0 +1,9 @@
+name: cbsp-hackathon-env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - bravado
