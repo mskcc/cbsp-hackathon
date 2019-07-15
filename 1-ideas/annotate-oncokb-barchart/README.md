@@ -10,7 +10,7 @@ with [OncoKB](https://www.oncokb.org/) and plots a distribution of the
 mutations that have an OncoKB annotation with their corresponding
 [level](https://www.oncokb.org/levels) e.g.:
 
-![OncoKB barchart per level](https://user-images.githubusercontent.com/5400599/54641277-30f61a80-4a68-11e9-988d-90a751df2ef5.png)
+![OncoKB barchart per level](https://user-images.githubusercontent.com/840895/48211952-9f073400-e348-11e8-8dcd-d00e7df63abd.png)
 
 In summary make a Jupyter notebook that:
 
