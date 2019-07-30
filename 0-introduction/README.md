@@ -5,7 +5,7 @@ develop visualizations of cancer genomics data pulled from the REST APIs of:
 Nexus](https://www.genomenexus.org/) and [OncoKB](https://www.oncokb.org/).
 
 ## Introduction talk
-TODO: Need to put a link to the slides here
+https://docs.google.com/presentation/d/1Vs1APGeeHkO7jLp1Xf_vQeiAaUL_Mujq_urGO6LYWQc/edit?usp=sharing
 
 ## Introduction to the REST APIs
 See the noteboook on GitHub: [cbsp_hackathon.ipynb](cbsp_hackathon.ipynb). Or
