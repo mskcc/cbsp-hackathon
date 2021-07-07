@@ -3,4 +3,6 @@
 
 ![image](https://user-images.githubusercontent.com/16869603/124823442-3597b300-df3f-11eb-8222-67c02a3bb671.png)
 
-We would like to have a notebook that recreate simplified version of Oncoprint
+We would like to have a notebook that recreate simplified version of Oncoprint. Here are some ideas:
+- Currently Oncoprint shows different mutation types with different colors. So instead of having all different mutation types, one idea could be creating a standard heatmap visualization that simply indicates whether there is a mutation. There is a useful python library to generate heatmaps called **"seaborn"**: https://seaborn.pydata.org/generated/seaborn.heatmap.html
+- Another option would be utilizing [Dash Bio](https://dash.plotly.com/dash-bio). [Dash](https://dash.plotly.com/introduction) is a productive Python framework for building web analytic applications, and [Dash Bio](https://dash.plotly.com/dash-bio) is a suite of bioinformatics components that make it simpler to analyze and visualize bioinformatics data and interact with them in a Dash application. Dash Bio provides [OncoPrint](https://dash.plotly.com/dash-bio/oncoprint) component that could view multiple genomic alteration events through an interactive and zoomable heatmap. See live examples here: https://dash-gallery.plotly.host/dash-onco-print/. By using this component we could recreate a heatmap with different color or padding design, or some simplified heatmaps that could view mutation data interactively.rint
